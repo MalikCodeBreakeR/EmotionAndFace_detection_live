@@ -1,1 +1,1 @@
-Just unzip install all required libraries and run.
+Just unzip, install all required libraries and run.
